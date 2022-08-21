@@ -15,6 +15,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50"/>
 </div>
 
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **PritOriginal/PritOriginal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
