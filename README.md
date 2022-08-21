@@ -1,11 +1,15 @@
 ### Hi there 👋
 
 ---
-### My Big Project
-
+## Мой самый большай проект
+### Приложение для учебных учреждений с проектной деятельностью в рамках учебных программ по микроэлектронике
+<a href="https://github.com/PritOriginal/Projects"> Сслыка </a>
+<div>
+<img src="https://github.com/PritOriginal/Projects/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"/>
+</div>
 
 ---
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Языки и Инструменты :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" width="50" height="50"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="50" height="50"/> 
