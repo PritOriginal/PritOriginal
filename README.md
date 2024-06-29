@@ -85,7 +85,7 @@
 ---
 ## Мой самый большой проект
 ### Приложение для учебных учреждений с проектной деятельностью в рамках учебных программ по микроэлектронике
-<a href="https://github.com/PritOriginal/Projects"> Сслыка </a>
+<a href="https://github.com/PritOriginal/Projects"> Ссылка </a>
 <div>
 <img height="50" width="50" src="https://github.com/PritOriginal/Projects/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"/>
 </div>
