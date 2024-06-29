@@ -1,4 +1,4 @@
-div style="padding: 10px; text-align: center; color: white">
+<div style="padding: 10px; text-align: center; color: white">
     <h1 style="padding: 10px; margin: 10px">Степан Махнатеев</h1>
     <p style="padding: 0px; margin: 0px">PritOriginal</p>
 </div>
