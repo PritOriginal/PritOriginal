@@ -1,20 +1,22 @@
-<div style="padding: 10px; text-align: center; color: white">
-    <h1 style="padding: 10px; margin: 10px">Степан Махнатеев</h1>
-    <p style="padding: 0px; margin: 0px">PritOriginal</p>
+<!-- <img height="50" width="50" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHpiMDMwZ2c1eXQ2M240cjU3YW5vZmhkNDgzdTB0NmNyMzRscXZoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MdA16VIoXKKxNE8Stk/giphy.gif" width="100px"/> -->
+
+<div>
+    <h1 align="center">Степан Махнатеев</h1>
+    <p align="center">PritOriginal</p>
 </div>
 
 ## :hammer_and_wrench: Языки и Инструменты :
-<div style="display: flex;gap: 10px;margin-bottom: 10px;">
+<div>
     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
 </div>
 
 ### :desktop_computer: Web
-<div style="display: flex;gap: 10px;margin-bottom: 10px;">
+<div>
     <img height="50" width="50" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div>
-<div style="display: flex;gap: 10px;margin-bottom: 10px;">
+<div>
     <img height="50" width="50" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
     <img height="50" width="50" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
     <img height="50" width="50" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />  
@@ -27,14 +29,14 @@
     <img height="50" width="50" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
     <img height="50" width="50" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 </div>
-<div style="display: flex;gap: 10px;margin-bottom: 10px;">
+<div>
     <img height="50" width="50" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg" />
     <img height="50" width="50" height="50" width="50" class="white-back" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/handlebars/handlebars-original.svg" />    
     <img height="50" width="50" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" />
 </div>
 
 ### :gear: Backend
-<div style="display: flex;gap: 10px;margin-bottom: 10px;">
+<div>
     <img height="50" width="50" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
     <img height="50" width="50" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" />
     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
@@ -64,7 +66,7 @@
 </div>
 
 ### :pushpin: Хобби
-<div style="display: flex;gap: 10px;margin-bottom: 10px;">
+<div>
     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
@@ -72,7 +74,7 @@
 </div>
 
 ### :pushpin: Имеются навыки
-<div style="display: flex;gap: 10px;margin-bottom: 10px;">
+<div>
     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
