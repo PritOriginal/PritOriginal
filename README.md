@@ -91,4 +91,4 @@
 </div>
 
 ---
-[![Top Langs](https://github-readme-stats-mauve-delta-13.vercel.app/api/top-langs/?username=PritOriginal&theme=dark&layout=compact&size_weight=0.5&count_weight=0.&exclude_repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-mauve-delta-13.vercel.app/api/top-langs/?username=PritOriginal&theme=dark&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
